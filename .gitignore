@@ -5,3 +5,5 @@ gradle.properties
 .DS_Store
 **/.nb-gradle/
 **/bin/
+**.project
+**private/
