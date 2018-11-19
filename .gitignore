@@ -1,0 +1,7 @@
+**.tmp
+**/build/
+gradle.properties
+.gradle
+.DS_Store
+**/.nb-gradle/
+**/bin/
