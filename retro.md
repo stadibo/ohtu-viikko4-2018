@@ -1,0 +1,7 @@
+## Retrospectives summary
+A retrospective meeting is a way to gather feedback about successes and issues that come about during project iterations. 
+
+A simple example of a retrospective technique is “Glad, Sad, Mad”, which is a “no gimmicks” retrospective plan that slightly favors discussing issues broadly than very deeply. Topics for discussion (issues, changes, or observations) are listed by all participants and then categorised, as the name suggests, as either Glad, Sad or Mad. This is a broad representation of positive - and negative notes and “gripes” respectively about the sprint/team. Participants vote on the issues to be discussed, which are then ranked from most to least votes. The issues are discussed in descending order until all issues have been discussed or there is no time remaining. The limit can be up to 60 minutes.
+
+Another example is the “Start, Stop, Continue, More of, Less of Wheel” which uses a wheel divided into 5 categories mentioned in the name. Questions related to these categories are presented, e.g. “What should we start doing that perhaps we haven't done yet? What should we stop doing?...”, and team members are encouraged to comment on each category and the comments are recorded in some way in relation to its category. The length of this type of retrospective varies by the size of the group, usually between 10-25 minutes, and the time being retrospect.
+
